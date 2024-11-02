@@ -1,3 +1,3 @@
 Name: Rian
-Email: rianaditro@gmail.com.id
+Email: rianaditro@gmail.com
 Status: very handsome
